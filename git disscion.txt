@@ -1,0 +1,195 @@
+Git and Git Hub
+================
+
+History?
+
+
+Project:
+
+
+Example?
+website design  ---> client ---> Airtel 
+
+164 team -->
+SU
+
+Project  -->  Customer Enagement team  --Project Onboard  
+
+HDFC
+Soluation Arch 
+
+
+Managers1                Managers2                   Managers2
+
+
+Dev team    
+test team   
+deployement/devops 
+Delivery Team 		  
+support team 
+
+
+
+
+              
+	
+	
+	
+	
+website design  ---> client ---> Airtel 
+
+164 team -->
+
+
+Suresh Maganer 
+
+
+Dev 
+
+1 team --> front end 
+
+db -- Python -- node js/html/js 
+
+back end  --> sql dev
+python dev --> Python dev/bussiness logic
+front end dev  --> UI dev 
+
+
+small scale --> full stack requirement
+
+
+1.Dev team
+
+50 team
+
+2.back end team 
+
+10
+
+front team --> 15
+
+Dev Team  --> 10 files
+
+back 
+
+
+5 sql 
+
+fron end  -- 150 files
+
+
+Project 
+10+5+150 files --> 
+
+165 --Project --> Folder Manager --> client -- 05.03.2023 
+
+manager + team Lead + solution arch  +client 
+
+
+changes:
+=========
+color
+font 
+detail --> change
+database --> 
+
+
+folder -> 165 --> changes
+
+next --> client -->
+
+changes
+
+
+4 months 
+
+
+maganer --> file change 
+
+
+ver1 
+
+folder 
+
+
+ver2 
+
+
+folder 
+
+
+ver3
+
+
+Problem 1 -> 
+
+
+limitation of tradiational code management system:
+=====================================================
+1.code maintain at central server 
+
+risk --> if collpase complete code will collpase(destroy)
+
+2.live internet connection required
+
+
+
+1.task --> account create 
+
+git hub :-
+
+Private : repository --> paid service
+
+Public :
+
+
+echo "# HDFC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sairambar/HDFC.git
+git push -u origin main
+
+
+
+First command :
+
+$ git config --global user.name "Tejas Patil"
+$ git config --global user.email "tejaspatil@gmail.com"
+
+
+
+1.first time Project code ---> Local Machine 
+
+git clone https://github.com/sairambar/HDFC.git
+
+git status 
+
+to check status of file --> location
+
+
+1 . working to staggin:
+
+add 
+
+single file
+=====================
+git add filename
+
+multiple file:
+==============================
+git add filename1 filename2 filenamen
+
+
+git add .
+
+2. stagging to working:
+-------------------------
+git restore --staged filename
+
+3.staging to locat repository
+==============================
+git commit -m "message" 
+
+git --> 99 same 
